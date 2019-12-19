@@ -1,0 +1,52 @@
+{
+  "events": [
+    {
+      "id": 1,
+      "title": "Haritalama Günlük İmalat Raporu"
+    },
+    {
+      "id": 2,
+      "title": "Hook and Loop Günlük İmalat Raporu"
+    },
+    {
+      "id": 3,
+      "title": "Yapıştırma Günlük İmalat Raporu"
+    },
+    {
+      "id": 4,
+      "title": "Kesim Günlük İmalat Raporu"
+    },
+    {
+      "id": 5,
+      "title": "İz Basım Günlük İmalat Raporu"
+    },
+    {
+      "id": 6,
+      "title": "Dikiş Günlük İmalat Raporu"
+    },
+    {
+      "id": 7,
+      "title": "Iskarta Takip Günlük İmalat Raporu"
+    },
+    {
+      "id": 8,
+      "title": "Kalite Kontrol Günlük İmalat Raporu"
+    },
+    {
+      "id": 9,
+      "title": "Stok Ambalaj Günlük İmalat Raporu"
+    },
+    {
+      "id": 10,
+      "title": "Ekli Keçe Günlük Parça Takip Raporu"
+    },
+    {
+      "id": 11,
+      "title": "Kırpım - Ütü Günlük İmalat Raporu"
+    },
+    {
+      "id": 12,
+      "title": "Desi - Parça Takip Raporu"
+    }
+  ]
+}
